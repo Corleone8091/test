@@ -4,9 +4,9 @@ commit test
 456
 789.
 Add Line
-<<<<<<< HEAD
 ya ebal
-=======
 new branch line
 ya ebal babu
->>>>>>> first_branch
+new line for gui
+new line 2
+new line 3
